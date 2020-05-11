@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ebe5b03d-cb14-4169-ad25-9d194da394fa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="9e9cdfbe-26c0-4e4e-8b04-ebe492e54d33" />
+  <component name="ProjectId" id="1bXdbo75TRliNAKavGe1n7qNkQM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Needleman" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BIO123AFinal" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Needleman.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Needleman" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ebe5b03d-cb14-4169-ad25-9d194da394fa" name="Default Changelist" comment="" />
+      <created>1588782445871</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588782445871</updated>
+      <workItem from="1588782452782" duration="2713000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="384" key="GridCell.Tab.0.bottom" timestamp="1588802330643">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="384" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1588802330643" />
+    <state width="863" height="275" key="GridCell.Tab.0.bottom/0.23.1680.976/1680.23.1920.1057@1680.23.1920.1057" timestamp="1588783748498" />
+    <state width="1878" height="275" key="GridCell.Tab.0.bottom/0.23.1680.977/1680.23.1920.1057@1680.23.1920.1057" timestamp="1588786630097" />
+    <state width="1398" height="384" key="GridCell.Tab.0.center" timestamp="1588802330640">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="384" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1588802330640" />
+    <state width="863" height="275" key="GridCell.Tab.0.center/0.23.1680.976/1680.23.1920.1057@1680.23.1920.1057" timestamp="1588783748497" />
+    <state width="1878" height="275" key="GridCell.Tab.0.center/0.23.1680.977/1680.23.1920.1057@1680.23.1920.1057" timestamp="1588786630096" />
+    <state width="1398" height="384" key="GridCell.Tab.0.left" timestamp="1588802330640">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="384" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1588802330640" />
+    <state width="863" height="275" key="GridCell.Tab.0.left/0.23.1680.976/1680.23.1920.1057@1680.23.1920.1057" timestamp="1588783748497" />
+    <state width="1878" height="275" key="GridCell.Tab.0.left/0.23.1680.977/1680.23.1920.1057@1680.23.1920.1057" timestamp="1588786630095" />
+    <state width="1398" height="384" key="GridCell.Tab.0.right" timestamp="1588802330641">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="384" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1588802330641" />
+    <state width="863" height="275" key="GridCell.Tab.0.right/0.23.1680.976/1680.23.1920.1057@1680.23.1920.1057" timestamp="1588783748498" />
+    <state width="1878" height="275" key="GridCell.Tab.0.right/0.23.1680.977/1680.23.1920.1057@1680.23.1920.1057" timestamp="1588786630096" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/BIO123AFinal$Needleman.coverage" NAME="Needleman Coverage Results" MODIFIED="1588786630063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
