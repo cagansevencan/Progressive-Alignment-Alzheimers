@@ -1,4 +1,4 @@
-# Alzheimers Sequence Used:
+# Alzheimer's Genomes Used:
 APOE, PICALM, ABCA7, and TREM2
 
 The problem we are facing is there have been many genes found to be associated with late-onset Alzheimer’s disease (AD) but not a lot of studies in all genes have been explored. Even with some identified sequences, there is still no preventative care like vaccines for this disease. Examples of genes that are associated with late-onset AD are APOE, PICALM, ABCA7, and TREM2. Using Python with a library called ‘Scikit-bio’, we have implemented the Needleman-Wunsch algorithm using dynamic programming and extrapolating to multiple sequence alignment implementing progressive pairwise alignment. Our goal is to check for distances, identities, and differences throughout the sequences that store the positions of misalignments and to determine the prominence of these genes in late-onset AD.
